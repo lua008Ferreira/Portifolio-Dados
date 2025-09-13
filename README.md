@@ -1,6 +1,6 @@
 # Portifolio-Dados
 Portfólio de projetos em Análise de Dados e Business Intelligence, com foco em Power BI, Excel, Python, SQL, Tableau, Looker Studio, Figma, Storytelling e Kanban. Transformando dados em insights visuais e estratégicos para apoiar decisões.
-# 📊 Portfólio de Dados — Lua Ferreira
+# 📊 Portfólio de Dados — Luana Ferreira de Sousa
 
 Transformo dados em decisões claras. Crio dashboards e análises com **Power BI, SQL, Excel e Python**, aplicando **storytelling** e foco no negócio.
 
