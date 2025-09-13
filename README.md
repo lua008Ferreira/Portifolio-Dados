@@ -11,7 +11,7 @@ Transformo dados em decisões claras. Crio dashboards e análises com **Power BI
 
 ## 🚀 Projetos em destaque
 ### 1) Gestão de Contratos — Prefeitura de Gravataí (Power BI)
-KPIs de prazos, matriz de criticidade, automação e **economia estimada**.  
+KPIs de prazos, matriz de criticidade e automação.  
 **Ferramentas:** Power BI, Excel, Data Storytelling.  
 📁 [Abrir pasta do projeto](Projeto-Gravatai) • 🖼️ (coloque o print aqui depois)  
 ![Capa - Gravataí](Projeto-Gravatai/capa-gravatai.png)
