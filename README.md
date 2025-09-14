@@ -17,7 +17,7 @@ Painel em Power BI para acompanhar prazos críticos de contratos e mensurar auto
 
 👉 [Abrir documentação completa](Projeto-Gravatai/LEIA-ME.md)
 
-![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
+[Capa do Projeto](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
 
 ### 2) Dashboard de Vendas (Power BI) — *em construção*
 📁 [Abrir pasta do projeto](Dashboard-Vendas)
