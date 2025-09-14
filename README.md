@@ -9,13 +9,32 @@ Transformo dados em decisões claras. Crio dashboards e análises com **Power BI
 
 ---
 
-1) Gestão de Contratos — Prefeitura de Gravataí (Power BI)
+### 📌 Exemplos Visuais
 
-📊 Painel em Power BI para acompanhar prazos críticos de contratos e mensurar automação.  
+**Capa do Projeto**  
+Imagem de abertura com identidade visual da Prefeitura de Gravataí.  
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
 
-**Ferramentas:** Power BI, Excel, Data Storytelling.  
+---
 
-📂 [Abrir documentação completa](Projeto-Gravatai/LEIA-ME.md)  
+**Página 1 – Contratos**  
+KPIs de vencimento (30, 60, 90 e 120 dias) e filtro de criticidade (baixo, médio, alto).  
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos Kips e Filtro.PNG)
+
+Distribuição dos contratos por nível de criticidade e contagem geral.  
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos Proporção e Contagem.PNG)
+
+---
+
+**Página 2 – Automação**  
+KPIs de automação, classificados em fácil ou difícil, com filtros aplicados.  
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação Kips e filtros.PNG)
+
+Evolução dos contratos ao longo do tempo, segmentados por objeto e nível de automação.  
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação Objeto e evolução.PNG)
+
+Matriz de automação, mostrando proporções e áreas estratégicas.  
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação Matriz e Proporção.PNG)
 
 ---
 
@@ -52,7 +71,9 @@ Transformo dados em decisões claras. Crio dashboards e análises com **Power BI
 ### 3) Consultas SQL — análise exploratória
 📁 [Abrir pasta do projeto](SQL-Consultas)
 
----
+---🌟 *Este projeto faz parte do portfólio de dados de* **Luana Ferreira de Sousa** 🌟  
+
+🔗 [Acompanhe meu perfil no LinkedIn](https://www.linkedin.com/in/luaferrreira-desousa) 
 
 ## 🧰 Habilidades
 **Power BI** (DAX básico, KPIs, layouts) • **SQL** (consultas e filtros) •  
