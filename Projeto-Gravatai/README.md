@@ -22,17 +22,22 @@
 
 ---  
 ## 🖼 Exemplos Visuais  
+## 📊 Exemplos Visuais  
 
 **Capa**  
-![Capa do Projeto](imagens/Capa.PNG)  
+![Capa do Projeto](imagens/Capa.PNG)
 
-**Página 1 — Prazos e Criticidade**  
-![Visão completa da Página 1](imagens/Paienel Contratos.PNG)  
+**Página 1 – Prazos e Criticidade**  
+![Visão completa da Página 1](imagens/Painel Contratos.PNG)
 
-**Página 2 — Automação**  
-![Visão completa da Página 2](imagens/Paienel auto.PNG)  
+**Página 2 – Automação**  
+![Visão completa da Página 2](imagens/Painel auto.PNG)
 
-"Adicionando imagens ao README do Projeto Gravataí"
+---
+
+⭐ *Este projeto faz parte do portfólio de dados de **Luana Ferreira de Sousa***.
+
+
 ---
 
 ✨ *Este projeto faz parte do portfólio de dados de **Luana Ferreira de Sousa**.*
