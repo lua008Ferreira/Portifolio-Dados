@@ -9,15 +9,15 @@ Transformo dados em decisões claras. Crio dashboards e análises com **Power BI
 
 ---
 
-## 🚀 Projetos em destaque
 ### 1) Gestão de Contratos — Prefeitura de Gravataí (Power BI)
-Painel em Power BI para acompanhar prazos críticos de contratos e mensurar automação.
 
+📊 Painel em Power BI para acompanhar prazos críticos de contratos e mensurar automação.  
 **Ferramentas:** Power BI, Excel, Data Storytelling.  
 
-👉 [Abrir documentação completa](Projeto-Gravatai/LEIA-ME.md)
+📂 [Abrir documentação completa](Projeto-Gravatai/LEIA-ME.md)  
 
-[Capa do Projeto](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
+🖼️ **Capa do Projeto**  
+![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
 
 ### 2) Dashboard de Vendas (Power BI) — *em construção*
 📁 [Abrir pasta do projeto](Dashboard-Vendas)
