@@ -18,10 +18,6 @@ Imagem de abertura com identidade visual da Prefeitura de Gravataí.
 
 ### Página 1 – Contratos
 
-**KPIs de Contratos e Filtros**  
-KPIs de vencimento (30, 60, 90 e 120 dias) e filtro de criticidade (baixo, médio, alto).  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos%20Kips%20e%20Filtro.PNG)
-
 **Proporção e Contagem de Contratos**  
 Distribuição dos contratos por nível de criticidade e contagem geral.  
 [🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos%20Proporção%20e%20Contagem.PNG)
