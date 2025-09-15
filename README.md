@@ -8,33 +8,41 @@ Transformo dados em decisões claras. Crio dashboards e análises com **Power BI
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luananoni@hptmail.com)
 
 ---
+## 📌 Exemplos Visuais
 
-### 📌 Exemplos Visuais
-
-**Capa do Projeto**  
+### Capa do Projeto
 Imagem de abertura com identidade visual da Prefeitura de Gravataí.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Gravatai%20Capa.PNG)
 
 ---
 
-**Página 1 – Contratos**  
+### Página 1 – Contratos
+
+**KPIs de Contratos e Filtros**  
 KPIs de vencimento (30, 60, 90 e 120 dias) e filtro de criticidade (baixo, médio, alto).  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos Kips e Filtro.PNG)
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos%20Kips%20e%20Filtro.PNG)
 
+**Proporção e Contagem de Contratos**  
 Distribuição dos contratos por nível de criticidade e contagem geral.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos Proporção e Contagem.PNG)
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos%20Proporção%20e%20Contagem.PNG)
 
 ---
 
-**Página 2 – Automação**  
+### Página 2 – Automação
+
+**KPIs de Automação e Filtros**  
 KPIs de automação, classificados em fácil ou difícil, com filtros aplicados.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação Kips e filtros.PNG)
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação%20Kips%20e%20filtros.PNG)
 
+**Evolução por Objeto de Automação**  
 Evolução dos contratos ao longo do tempo, segmentados por objeto e nível de automação.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação Objeto e evolução.PNG)
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação%20Objeto%20e%20evolução.PNG)
 
+**Matriz de Automação e Proporção**  
 Matriz de automação, mostrando proporções e áreas estratégicas.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação Matriz e Proporção.PNG)
+[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação%20Matriz%20e%20Proporção.PNG)
+
+
 
 ---
 
