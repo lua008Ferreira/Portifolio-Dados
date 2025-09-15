@@ -38,33 +38,6 @@ Matriz de automação, mostrando proporções e áreas estratégicas.
 
 ---
 
-### 📌 Exemplos Visuais
-
-**Capa do Projeto**  
-![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
-
-**Página 1 – Contratos**  
-- **KPIs de Contratos e Filtros**  
-  ![KPIs e Filtros](Projeto-Gravatai/imagens/Contratos Kips e Filtro.PNG)  
-  *Indicadores de prazos críticos (30, 60, 90 e 120 dias) e filtro de criticidade.*  
-
-- **Proporção e Contagem de Contratos**  
-  ![Proporção e Contagem](Projeto-Gravatai/imagens/Contratos Proporção e Contagem.PNG)  
-  *Distribuição dos contratos por nível de criticidade e contagem geral.*  
-
-**Página 2 – Automação**  
-- **KPIs de Automação e Filtros**  
-  ![KPIs de Automação](Projeto-Gravatai/imagens/Automação Kips e filtros.PNG)  
-  *Resumo dos contratos classificados por nível de automação (fácil ou difícil).*  
-
-- **Evolução por Objeto de Automação**  
-  ![Objeto e Evolução](Projeto-Gravatai/imagens/Automação Objeto e evolução.PNG)  
-  *Comparativo da evolução dos contratos ao longo do tempo, segmentados por objeto.*  
-
-- **Matriz de Automação e Proporção**  
-  ![Matriz e Proporção](Projeto-Gravatai/imagens/Automação Matriz e Proporção.PNG)  
-  *Relação entre o objeto dos contratos e o nível de automação, destacando proporções e áreas estratégicas.*  
-
 ### 2) Dashboard de Vendas (Power BI) — *em construção*
 📁 [Abrir pasta do projeto](Dashboard-Vendas)
 
