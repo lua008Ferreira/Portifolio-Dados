@@ -15,24 +15,17 @@ Imagem de abertura com identidade visual da Prefeitura de Gravataí.
 [🔗 Ver imagem](Projeto-Gravatai/imagens/Gravatai%20Capa.PNG)
 
 ---
-
-### Página 1 – Contratos
-
-**Proporção e Contagem de Contratos**  
-Distribuição dos contratos por nível de criticidade e contagem geral.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Contratos%20Proporção%20e%20Contagem.PNG)
+### Página 1 – Contratos  
+Visão completa dos contratos: prazos críticos, criticidade e contagem geral.  
+[📎 Ver Dashboard de Contratos](Projeto-Gravatai/imagens/Dashboard_Contratos.PNG)  
 
 ---
 
-### Página 2 – Automação
+### Página 2 – Automação  
+Resumo estratégico dos contratos classificados por nível de automação e evolução ao longo do tempo.  
+[📎 Ver Dashboard de Automação](Projeto-Gravatai/imagens/Dashboard_Automacao.PNG)  
 
-**KPIs de Automação e Filtros**  
-KPIs de automação, classificados em fácil ou difícil, com filtros aplicados.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação%20Kips%20e%20filtros.PNG)
 
-**Evolução por Objeto de Automação**  
-Evolução dos contratos ao longo do tempo, segmentados por objeto e nível de automação.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação%20Objeto%20e%20evolução.PNG)
 
 **Matriz de Automação e Proporção**  
 Matriz de automação, mostrando proporções e áreas estratégicas.  
