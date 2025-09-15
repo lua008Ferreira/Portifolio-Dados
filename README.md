@@ -1,8 +1,5 @@
 # Portifolio-Dados
 Portfólio de projetos em Análise de Dados e Business Intelligence, com foco em Power BI, Excel, Python, SQL, Tableau, Looker Studio, Figma, Storytelling e Kanban. Transformando dados em insights visuais e estratégicos para apoiar decisões.
-# 📊 Portfólio de Dados — Luana Ferreira de Sousa
-
-Transformo dados em decisões claras. Crio dashboards e análises com **Power BI, SQL, Excel e Python**, aplicando **storytelling** e foco no negócio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/luaferreira-desousa)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luananoni@hptmail.com)
@@ -16,21 +13,18 @@ Imagem de abertura com identidade visual da Prefeitura de Gravataí.
 
 ---
 ### Página 1 – Contratos  
+## 📌 Exemplos Visuais  
+
+### Página 1 – Contratos  
 Visão completa dos contratos: prazos críticos, criticidade e contagem geral.  
-[📎 Ver Dashboard de Contratos](Projeto-Gravatai/imagens/Dashboard_Contratos.PNG)  
+[📎 Ver Dashboard de Contratos](Projeto-Gravatai/imagens/Painel%20Contratos.PNG)  
 
 ---
 
 ### Página 2 – Automação  
 Resumo estratégico dos contratos classificados por nível de automação e evolução ao longo do tempo.  
-[📎 Ver Dashboard de Automação](Projeto-Gravatai/imagens/Dashboard_Automacao.PNG)  
-
-
-
-**Matriz de Automação e Proporção**  
-Matriz de automação, mostrando proporções e áreas estratégicas.  
-[🔗 Ver imagem](Projeto-Gravatai/imagens/Automação%20Matriz%20e%20Proporção.PNG)
-
+[📎 Ver Dashboard de Automação](Projeto-Gravatai/imagens/Painel%20automação.PNG)  
+  
 
 
 ---
