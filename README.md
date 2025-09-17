@@ -11,23 +11,20 @@ Portfólio de projetos em Análise de Dados e Business Intelligence, com foco em
 Imagem de abertura com identidade visual da Prefeitura de Gravataí.  
 [🔗 Ver imagem](Projeto-Gravatai/imagens/Gravatai%20Capa.PNG)
 
----
-### Página 1 – Contratos    
+---    
 ### 📊 Exemplos Visuais
+### Exemplos Visuais
 
 **Página 1 – Contratos**  
 Visão geral dos contratos, prazos críticos e distribuição por criticidade.  
-[📎 Ver Dashboard de Contratos](Projeto-Gravatai/imagens/Painel_Contratos.PNG)
+[📊 Ver Painel de Contratos](Projeto-Gravatai/imagens/Dashboard_Contratos.PNG)
 
 **Página 2 – Automação**  
 Análise da automação dos contratos, destacando níveis, evolução e proporções.  
-[📎 Ver Dashboard de Automação](Projeto-Gravatai/imagens/Painel_Automacao.PNG)
+[⚙️ Ver Dashboard de Automação](Projeto-Gravatai/imagens/Dashboard_Automacao.PNG)
 
 
-  
 
-
----
 
 ### 2) Dashboard de Vendas (Power BI) — *em construção*
 📁 [Abrir pasta do projeto](Dashboard-Vendas)
