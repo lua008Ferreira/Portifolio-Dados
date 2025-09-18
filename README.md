@@ -15,7 +15,6 @@ Imagem de abertura com identidade visual da Prefeitura de Gravataí.
 
 
 
-
 # Gestão de Contratos — Prefeitura de Gravataí
 
 ## 🔎 Sobre o Projeto  
