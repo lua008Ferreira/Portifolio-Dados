@@ -10,7 +10,8 @@ Portfólio de projetos em Análise de Dados e Business Intelligence, com foco em
  **Capa do Projeto**    
 Imagem de abertura com identidade visual da Prefeitura de Gravataí.  
 
-![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai Capa.PNG)
+![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai_Capa.PNG)
+
 
 
 
