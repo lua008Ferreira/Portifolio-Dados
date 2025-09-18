@@ -6,13 +6,13 @@ Portfólio de projetos em Análise de Dados e Business Intelligence, com foco em
 
 ---
 ## 📌 Exemplos Visuais
+   
+  **Capa do Projeto**  
+Imagem de abertura com identidade visual da Prefeitura de Gravataí.
 
- **Capa do Projeto**    
-  ![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai_Capa.PNG)
+![Capa do Projeto](Projeto-Gravatai/imagens/Gravatai_Capa.PNG)
 
 
-
-Projeto-Gravatai/imagens/Gravatai_Capa.PNG
 
 
 # Gestão de Contratos — Prefeitura de Gravataí
