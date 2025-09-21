@@ -69,7 +69,7 @@ Análise da automação dos contratos, destacando níveis, evolução e proporç
 
 ## 🧰 Habilidades
 **Power BI** (DAX básico, KPIs, layouts) • **SQL** (consultas e filtros) •  
-**Excel** (Power Query, dashboards) • **Python (iniciante)** •  
+**Excel** (Power Query, dashboards) • **Python ** •  
 **LGPD** • **Kanban / Target Process**
 
 ---
